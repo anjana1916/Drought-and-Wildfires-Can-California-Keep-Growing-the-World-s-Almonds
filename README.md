@@ -42,7 +42,6 @@ The analysis was conducted using Jupyter Notebooks:
 - USDA Almond Reports
 - NOAA Drought Monitoring Data
 - NASA FIRMS Wildfire Data
-- California Department of Water Resources
 
 
 🌟 **Author**: Anjana Karathat Rajeev\
